@@ -12,21 +12,6 @@ Contacts:
 
 -------------------     ----------------------------
 
-Experience
-----------
-
-**HR Business Partner:**
-
-*2018 - present*
-
-**Responsibilities:**
-
-•	co-creating HR strategy for Department hand in hand with business leader;
-
-•	ensure smooth introduction and implementation of new people management related solutions, programs and policies within business unit;
-
-•	consulting business leaders on improvement of people management environment; 
-
 
 
 Education
@@ -50,6 +35,24 @@ Prometheus courses
 **JS + React course**; 
 
 Udemy
+
+
+
+Experience
+----------
+
+**HR Business Partner:**
+
+*2018 - present*
+
+**Responsibilities:**
+
+•	co-creating HR strategy for Department hand in hand with business leader;
+
+•	ensure smooth introduction and implementation of new people management related solutions, programs and policies within business unit;
+
+•	consulting business leaders on improvement of people management environment; 
+
 
 
 Skills and Languages:
