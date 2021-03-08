@@ -45,7 +45,7 @@ State University (Rivne)/Department of management and organization
 
 Prometheus courses
 
-*2020*
+*2021*
 
 **JS + React course**; 
 
