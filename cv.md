@@ -19,7 +19,7 @@ Experience
 
 *2018 - present*
 
-**Responsebilities:**
+**Responsibilities:**
 
 •	co-creating HR strategy for Department hand in hand with business leader;
 
