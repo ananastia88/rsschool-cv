@@ -27,7 +27,6 @@ Experience
 
 •	consulting business leaders on improvement of people management environment; 
 
-•	together with line manager onboard the key talents and leaders;
 
 
 Education
